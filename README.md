@@ -24,7 +24,7 @@ I build multi-agent AI systems and use them to drive growth for Web3 projects. 1
 
 ## 🔗 Links
 
-- 🐦 [@FurryProphet](https://twitter.com/FurryProphet)
+- 🐦 [@FurryProphet](https://twitter.com/BensPandaLab)
 - 💼 [LinkedIn](https://www.linkedin.com/in/benjamin-tsan-6b5987243/)
 - 📧 Bentsanhq@gmail.com
 
